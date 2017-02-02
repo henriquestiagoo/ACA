@@ -1,0 +1,4 @@
+0x4          # int increment
+0x38         # after last element address
+0x10         # first element address
+0x1          # constant used in branch
