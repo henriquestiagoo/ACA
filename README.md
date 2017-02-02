@@ -1,2 +1,2 @@
 # ACA
-ACA 16/17
+Arquitetura de Computadores Avançada 16/17
